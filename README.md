@@ -63,14 +63,6 @@
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-<br>
 <!-- https://icons8.com -->
 <div align="center">
   <!-- <a href="https://vuongmanhnghia.com" target="blank">
@@ -85,6 +77,14 @@
   <a href="https://instagram.com/_nghia.05" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="vuongmanhnghia-instagram" />
   </a>
+</div>
+<br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 <br>
 <a href="#" target="_blank">
